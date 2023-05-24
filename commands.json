@@ -1,0 +1,12 @@
+{
+    "commandos": [
+        {
+            "Name": "Get IP",
+            "Command": "ipconfig"
+        },
+        {
+            "Name": "System info",
+            "Command": "slmgr /dlv"
+        }
+    ]
+}
