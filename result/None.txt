@@ -1,0 +1,140 @@
+
+Windows IP Configuration
+
+
+Unknown adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::f16a:eaa8:3b31:48d4%4
+   Autoconfiguration IPv4 Address. . : 169.254.57.214
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::8b33:bd7:4395:8d56%21
+   IPv4 Address. . . . . . . . . . . : 192.168.58.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::e3b:974d:d890:590c%12
+   IPv4 Address. . . . . . . . . . . : 192.168.14.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::53e6:f9a2:43f8:88db%8
+   IPv4 Address. . . . . . . . . . . : 192.168.0.8
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+Host Name:                 LAPTOP-B173VTIA
+OS Name:                   Microsoft Windows 10 Home
+OS Version:                10.0.19044 N/A Build 19044
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Dion_brovina@hotmail.com
+Registered Organization:   N/A
+Product ID:                00325-82149-88046-AAOEM
+Original Install Date:     27/09/2021, 08:06:52
+System Boot Time:          23/05/2023, 15:51:55
+System Manufacturer:       LENOVO
+System Model:              82MS
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~3201 Mhz
+BIOS Version:              LENOVO GZCN31WW, 06/09/2022
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+01:00) Brussels, Copenhagen, Madrid, Paris
+Total Physical Memory:     14.182 MB
+Available Physical Memory: 7.600 MB
+Virtual Memory: Max Size:  17.382 MB
+Virtual Memory: Available: 7.349 MB
+Virtual Memory: In Use:    10.033 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\LAPTOP-B173VTIA
+Hotfix(s):                 25 Hotfix(s) Installed.
+                           [01]: KB5022502
+                           [02]: KB4562830
+                           [03]: KB4570334
+                           [04]: KB4577586
+                           [05]: KB4580325
+                           [06]: KB4586864
+                           [07]: KB4593175
+                           [08]: KB5003791
+                           [09]: KB5012170
+                           [10]: KB5026361
+                           [11]: KB5006753
+                           [12]: KB5007273
+                           [13]: KB5011352
+                           [14]: KB5011651
+                           [15]: KB5014032
+                           [16]: KB5014035
+                           [17]: KB5014671
+                           [18]: KB5015895
+                           [19]: KB5016705
+                           [20]: KB5018506
+                           [21]: KB5020372
+                           [22]: KB5022924
+                           [23]: KB5023794
+                           [24]: KB5025315
+                           [25]: KB5005699
+Network Card(s):           5 NIC(s) Installed.
+                           [01]: Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.0.1
+                                 IP address(es)
+                                 [01]: 192.168.0.8
+                                 [02]: fe80::53e6:f9a2:43f8:88db
+                           [02]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 169.254.57.214
+                                 [02]: fe80::f16a:eaa8:3b31:48d4
+                           [03]: VMware Virtual Ethernet Adapter for VMnet1
+                                 Connection Name: VMware Network Adapter VMnet1
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.58.254
+                                 IP address(es)
+                                 [01]: 192.168.58.1
+                                 [02]: fe80::8b33:bd7:4395:8d56
+                           [04]: VMware Virtual Ethernet Adapter for VMnet8
+                                 Connection Name: VMware Network Adapter VMnet8
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.14.254
+                                 IP address(es)
+                                 [01]: 192.168.14.1
+                                 [02]: fe80::e3b:974d:d890:590c
+                           [05]: TAP-Windows Adapter V9 for OpenVPN Connect
+                                 Connection Name: Local Area Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
