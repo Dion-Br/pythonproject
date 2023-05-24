@@ -1,6 +1,9 @@
+from modules.readrepo import readRemoteCommands
+
+
 # Main code
 def main():
-    print("Hello world")
+    readRemoteCommands()
 
 
 if __name__ == "__main__":

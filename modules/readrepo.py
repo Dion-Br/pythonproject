@@ -1,8 +1,5 @@
-# Repository lezen uit github
-
-
 # Commandos uit github repo halen
-def main():
+def readRemoteCommands():
     # Packages importeren
     from github import Github
     import os
@@ -14,9 +11,5 @@ def main():
 
     g = Github(GITHUB_TOKEN)
     repo = g.get_user().get_repo("pythonproject")
-    a = repo.get_contents("../commands.json")
-    print(a.content)
-
-
-if __name__ == "__main__":
-    main()
+    a = repo.get_contents("commands.json")
+    print(a.decoded_content)
