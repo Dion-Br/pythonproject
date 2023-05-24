@@ -6,7 +6,7 @@
         },
         {
             "name": "System info",
-            "command": "slmgr /dlv"
+            "command": "systeminfo"
         }
     ]
 }
