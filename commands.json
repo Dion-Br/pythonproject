@@ -1,12 +1,12 @@
 {
-    "commandos": [
+    "commands": [
         {
-            "Name": "Get IP",
-            "Command": "ipconfig"
+            "name": "Get IP",
+            "command": "ipconfig"
         },
         {
-            "Name": "System info",
-            "Command": "slmgr /dlv"
+            "name": "System info",
+            "command": "slmgr /dlv"
         }
     ]
 }
