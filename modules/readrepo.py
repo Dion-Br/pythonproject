@@ -12,4 +12,4 @@ def readRemoteCommands():
     g = Github(GITHUB_TOKEN)
     repo = g.get_user().get_repo("pythonproject")
     a = repo.get_contents("commands.json")
-    print(a.decoded_content)
+    return a.decoded_content
