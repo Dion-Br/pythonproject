@@ -1,3 +1,5 @@
 .env
 .vscode/
 venv/
+results.txt
+modules/__pycache__/
