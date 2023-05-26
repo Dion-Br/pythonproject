@@ -3,13 +3,16 @@ import os
 
 
 def executeJSON(jsonstr):
+    responses = []
+
     # JSON commandos uitlezen
     dict_commands = readJSON(jsonstr)
 
     for item in dict_commands["commands"]:
-        print(f"Name: {item['name']} => Command: {item['command']} \nResult:")
         result = os.popen(item["command"]).read()
-        print(result)
+        responses.append(result)
+
+    return responses
 
 
 def readJSON(jsonstr):
