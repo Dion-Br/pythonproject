@@ -1,16 +1,17 @@
 # Import packages
-from modules.localmanager import Screenshot
+from modules.localmanager import Screenshot, OpenBrowser
 from modules.remotecontroler import listener
 
 
 # Main code
 def main():
     # Initial startup:
+    OpenBrowser()
     Screenshot()
     # Initial startup done
     # ---------------------
     # Listening to remote commands
-    listener()
+    # listener()
 
 
 if __name__ == "__main__":
