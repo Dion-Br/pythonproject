@@ -7,7 +7,6 @@ from modules.remotecontroler import listener
 def main():
     # Initial startup:
     Screenshot()
-
     # Initial startup done
     # ---------------------
     # Listening to remote commands
