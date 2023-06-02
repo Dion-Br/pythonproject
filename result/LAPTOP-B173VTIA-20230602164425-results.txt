@@ -1,0 +1,388 @@
+
+Windows IP Configuration
+
+
+Unknown adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::f16a:eaa8:3b31:48d4%4
+   Autoconfiguration IPv4 Address. . : 169.254.57.214
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::8b33:bd7:4395:8d56%21
+   IPv4 Address. . . . . . . . . . . : 192.168.58.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::e3b:974d:d890:590c%12
+   IPv4 Address. . . . . . . . . . . : 192.168.14.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::53e6:f9a2:43f8:88db%8
+   IPv4 Address. . . . . . . . . . . : 192.168.0.8
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+Host Name:                 LAPTOP-B173VTIA
+OS Name:                   Microsoft Windows 10 Home
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Dion_brovina@hotmail.com
+Registered Organization:   N/A
+Product ID:                00325-82149-88046-AAOEM
+Original Install Date:     27/09/2021, 08:06:52
+System Boot Time:          01/06/2023, 19:00:59
+System Manufacturer:       LENOVO
+System Model:              82MS
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~3201 Mhz
+BIOS Version:              LENOVO GZCN31WW, 06/09/2022
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+01:00) Brussels, Copenhagen, Madrid, Paris
+Total Physical Memory:     14.182 MB
+Available Physical Memory: 7.185 MB
+Virtual Memory: Max Size:  17.254 MB
+Virtual Memory: Available: 6.455 MB
+Virtual Memory: In Use:    10.799 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\LAPTOP-B173VTIA
+Hotfix(s):                 26 Hotfix(s) Installed.
+                           [01]: KB5022502
+                           [02]: KB4562830
+                           [03]: KB4570334
+                           [04]: KB4577586
+                           [05]: KB4580325
+                           [06]: KB4586864
+                           [07]: KB4593175
+                           [08]: KB5003791
+                           [09]: KB5012170
+                           [10]: KB5015684
+                           [11]: KB5026361
+                           [12]: KB5006753
+                           [13]: KB5007273
+                           [14]: KB5011352
+                           [15]: KB5011651
+                           [16]: KB5014032
+                           [17]: KB5014035
+                           [18]: KB5014671
+                           [19]: KB5015895
+                           [20]: KB5016705
+                           [21]: KB5018506
+                           [22]: KB5020372
+                           [23]: KB5022924
+                           [24]: KB5023794
+                           [25]: KB5025315
+                           [26]: KB5005699
+Network Card(s):           5 NIC(s) Installed.
+                           [01]: Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.0.1
+                                 IP address(es)
+                                 [01]: 192.168.0.8
+                                 [02]: fe80::53e6:f9a2:43f8:88db
+                           [02]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 169.254.57.214
+                                 [02]: fe80::f16a:eaa8:3b31:48d4
+                           [03]: VMware Virtual Ethernet Adapter for VMnet1
+                                 Connection Name: VMware Network Adapter VMnet1
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.58.254
+                                 IP address(es)
+                                 [01]: 192.168.58.1
+                                 [02]: fe80::8b33:bd7:4395:8d56
+                           [04]: VMware Virtual Ethernet Adapter for VMnet8
+                                 Connection Name: VMware Network Adapter VMnet8
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.14.254
+                                 IP address(es)
+                                 [01]: 192.168.14.1
+                                 [02]: fe80::e3b:974d:d890:590c
+                           [05]: TAP-Windows Adapter V9 for OpenVPN Connect
+                                 Connection Name: Local Area Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+
+Interface: 169.254.57.214 --- 0x4
+  Internet Address      Physical Address      Type
+  169.254.255.255       ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.250           01-00-5e-00-00-fa     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  224.0.1.60            01-00-5e-00-01-3c     static    
+  239.255.3.22          01-00-5e-7f-03-16     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  239.255.255.251       01-00-5e-7f-ff-fb     static    
+
+Interface: 192.168.0.8 --- 0x8
+  Internet Address      Physical Address      Type
+  192.168.0.1           08-b0-55-33-e8-81     dynamic   
+  192.168.0.2           70-df-f7-cf-80-06     dynamic   
+  192.168.0.3           58-20-b1-20-a7-47     dynamic   
+  192.168.0.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.250           01-00-5e-00-00-fa     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  224.0.1.60            01-00-5e-00-01-3c     static    
+  239.255.3.22          01-00-5e-7f-03-16     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  239.255.255.251       01-00-5e-7f-ff-fb     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+Interface: 192.168.14.1 --- 0xc
+  Internet Address      Physical Address      Type
+  192.168.14.254        00-50-56-ff-e3-e0     dynamic   
+  192.168.14.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.250           01-00-5e-00-00-fa     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  224.0.1.60            01-00-5e-00-01-3c     static    
+  239.255.3.22          01-00-5e-7f-03-16     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  239.255.255.251       01-00-5e-7f-ff-fb     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+Interface: 192.168.58.1 --- 0x15
+  Internet Address      Physical Address      Type
+  192.168.58.254        00-50-56-e6-2b-40     dynamic   
+  192.168.58.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.250           01-00-5e-00-00-fa     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  224.0.1.60            01-00-5e-00-01-3c     static    
+  239.255.3.22          01-00-5e-7f-03-16     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  239.255.255.251       01-00-5e-7f-ff-fb     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+Profiles on interface Wi-Fi:
+
+Group policy profiles (read only)
+---------------------------------
+    <None>
+
+User profiles
+-------------
+    All User Profile     : Labo 2
+    All User Profile     : telenet-ap-6579114
+    All User Profile     : WiFi-5.0-A778
+    All User Profile     : FD intern
+    All User Profile     : Filet Divers
+    All User Profile     : FRITZ!Box 7580 LP
+    All User Profile     : ZB-Internet
+    All User Profile     : Orange-3e87e
+    All User Profile     : WIFI home 5GHz
+    All User Profile     : WIFI home
+    All User Profile     : Kiss Family
+    All User Profile     : Leardi00
+    All User Profile     : EBEBE
+    All User Profile     : WiFi-2.4-A778
+    All User Profile     : Quick_Guest
+    All User Profile     : AP wifi
+    All User Profile     : bletchley
+    All User Profile     : Arben Jaka
+    All User Profile     : Toni Tuna
+    All User Profile     : AP-Hogeschool 2
+    All User Profile     : Als jij hackt ga ik jou shanken 
+    All User Profile     : telenet-8AB68
+    All User Profile     : no wifi hire
+
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       1492
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:902            0.0.0.0:0              LISTENING       5776
+  TCP    0.0.0.0:912            0.0.0.0:0              LISTENING       5776
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       8900
+  TCP    0.0.0.0:5357           0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING       10916
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       1236
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       1136
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       2104
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       1204
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING       4288
+  TCP    0.0.0.0:49669          0.0.0.0:0              LISTENING       1208
+  TCP    0.0.0.0:50131          0.0.0.0:0              LISTENING       4
+  TCP    127.0.0.1:7682         0.0.0.0:0              LISTENING       13512
+  TCP    127.0.0.1:7692         127.0.0.1:7693         ESTABLISHED     6528
+  TCP    127.0.0.1:7693         127.0.0.1:7692         ESTABLISHED     6528
+  TCP    127.0.0.1:7694         127.0.0.1:7695         ESTABLISHED     6528
+  TCP    127.0.0.1:7695         127.0.0.1:7694         ESTABLISHED     6528
+  TCP    127.0.0.1:7696         127.0.0.1:7697         ESTABLISHED     10444
+  TCP    127.0.0.1:7697         127.0.0.1:7696         ESTABLISHED     10444
+  TCP    127.0.0.1:7698         127.0.0.1:7699         ESTABLISHED     10444
+  TCP    127.0.0.1:7699         127.0.0.1:7698         ESTABLISHED     10444
+  TCP    169.254.57.214:139     0.0.0.0:0              LISTENING       4
+  TCP    192.168.0.8:139        0.0.0.0:0              LISTENING       4
+  TCP    192.168.0.8:9121       20.90.156.32:443       ESTABLISHED     4960
+  TCP    192.168.0.8:9138       192.168.0.2:8009       ESTABLISHED     13076
+  TCP    192.168.0.8:9141       192.168.0.2:8009       ESTABLISHED     17212
+  TCP    192.168.0.8:9155       142.250.102.188:5228   ESTABLISHED     17212
+  TCP    192.168.0.8:9156       192.168.0.2:8008       ESTABLISHED     17212
+  TCP    192.168.0.8:9157       192.168.0.2:8008       ESTABLISHED     13076
+  TCP    192.168.0.8:11254      140.82.112.25:443      ESTABLISHED     17212
+  TCP    192.168.0.8:11297      216.58.208.100:443     ESTABLISHED     17212
+  TCP    192.168.0.8:11299      104.21.20.100:443      ESTABLISHED     17212
+  TCP    192.168.0.8:11300      142.250.179.136:443    ESTABLISHED     17212
+  TCP    192.168.0.8:11301      216.58.214.10:443      ESTABLISHED     17212
+  TCP    192.168.0.8:11302      216.58.214.3:443       ESTABLISHED     17212
+  TCP    192.168.0.8:11303      216.239.32.36:443      ESTABLISHED     17212
+  TCP    192.168.0.8:11304      35.190.80.1:443        ESTABLISHED     17212
+  TCP    192.168.0.8:11311      104.17.24.14:443       ESTABLISHED     17212
+  TCP    192.168.0.8:11312      216.58.208.106:443     ESTABLISHED     17212
+  TCP    192.168.0.8:11315      172.217.168.234:443    ESTABLISHED     17212
+  TCP    192.168.0.8:11316      104.18.2.126:443       ESTABLISHED     17212
+  TCP    192.168.0.8:11318      216.58.214.10:443      ESTABLISHED     17212
+  TCP    192.168.0.8:11320      142.250.179.136:443    ESTABLISHED     17212
+  TCP    192.168.0.8:11321      104.16.56.101:443      ESTABLISHED     17212
+  TCP    192.168.0.8:11322      216.239.32.36:443      ESTABLISHED     17212
+  TCP    192.168.0.8:11323      142.250.27.157:443     ESTABLISHED     17212
+  TCP    192.168.0.8:11324      142.251.39.99:443      ESTABLISHED     17212
+  TCP    192.168.0.8:11325      216.58.208.106:443     ESTABLISHED     17212
+  TCP    192.168.0.8:11332      20.54.232.160:443      ESTABLISHED     5844
+  TCP    192.168.0.8:11344      34.239.83.79:443       CLOSE_WAIT      17212
+  TCP    192.168.0.8:11347      140.82.121.4:443       ESTABLISHED     17212
+  TCP    192.168.0.8:11348      185.199.108.133:443    ESTABLISHED     17212
+  TCP    192.168.0.8:11349      140.82.112.22:443      ESTABLISHED     17212
+  TCP    192.168.0.8:11350      185.199.108.154:443    ESTABLISHED     17212
+  TCP    192.168.0.8:11351      185.199.108.154:443    ESTABLISHED     17212
+  TCP    192.168.0.8:11352      140.82.121.6:443       ESTABLISHED     17212
+  TCP    192.168.0.8:11355      185.199.108.154:443    ESTABLISHED     17212
+  TCP    192.168.0.8:11358      140.82.121.6:443       ESTABLISHED     1020
+  TCP    192.168.14.1:139       0.0.0.0:0              LISTENING       4
+  TCP    192.168.58.1:139       0.0.0.0:0              LISTENING       4
+  TCP    [::]:135               [::]:0                 LISTENING       1492
+  TCP    [::]:445               [::]:0                 LISTENING       4
+  TCP    [::]:5357              [::]:0                 LISTENING       4
+  TCP    [::]:7680              [::]:0                 LISTENING       10916
+  TCP    [::]:49664             [::]:0                 LISTENING       1236
+  TCP    [::]:49665             [::]:0                 LISTENING       1136
+  TCP    [::]:49666             [::]:0                 LISTENING       2104
+  TCP    [::]:49667             [::]:0                 LISTENING       1204
+  TCP    [::]:49668             [::]:0                 LISTENING       4288
+  TCP    [::]:49669             [::]:0                 LISTENING       1208
+  TCP    [::]:50131             [::]:0                 LISTENING       4
+  TCP    [::1]:42050            [::]:0                 LISTENING       1176
+  UDP    0.0.0.0:123            *:*                                    1156
+  UDP    0.0.0.0:500            *:*                                    4880
+  UDP    0.0.0.0:3702           *:*                                    10328
+  UDP    0.0.0.0:3702           *:*                                    10328
+  UDP    0.0.0.0:3702           *:*                                    5876
+  UDP    0.0.0.0:3702           *:*                                    5876
+  UDP    0.0.0.0:4500           *:*                                    4880
+  UDP    0.0.0.0:5050           *:*                                    8900
+  UDP    0.0.0.0:5353           *:*                                    15072
+  UDP    0.0.0.0:5353           *:*                                    15072
+  UDP    0.0.0.0:5353           *:*                                    15072
+  UDP    0.0.0.0:5353           *:*                                    15072
+  UDP    0.0.0.0:5353           *:*                                    3536
+  UDP    0.0.0.0:5353           *:*                                    15072
+  UDP    0.0.0.0:5353           *:*                                    15072
+  UDP    0.0.0.0:5353           *:*                                    15072
+  UDP    0.0.0.0:5353           *:*                                    15072
+  UDP    0.0.0.0:5355           *:*                                    3536
+  UDP    0.0.0.0:51022          *:*                                    5876
+  UDP    0.0.0.0:52338          *:*                                    10328
+  UDP    0.0.0.0:55450          *:*                                    17212
+  UDP    0.0.0.0:61704          *:*                                    17212
+  UDP    0.0.0.0:62296          *:*                                    17212
+  UDP    0.0.0.0:65075          *:*                                    4288
+  UDP    127.0.0.1:1900         *:*                                    4676
+  UDP    127.0.0.1:57483        *:*                                    5784
+  UDP    127.0.0.1:59219        *:*                                    4676
+  UDP    169.254.57.214:137     *:*                                    4
+  UDP    169.254.57.214:138     *:*                                    4
+  UDP    169.254.57.214:1900    *:*                                    4676
+  UDP    169.254.57.214:2177    *:*                                    9364
+  UDP    169.254.57.214:59215   *:*                                    4676
+  UDP    192.168.0.8:137        *:*                                    4
+  UDP    192.168.0.8:138        *:*                                    4
+  UDP    192.168.0.8:1900       *:*                                    4676
+  UDP    192.168.0.8:2177       *:*                                    9364
+  UDP    192.168.0.8:59218      *:*                                    4676
+  UDP    192.168.14.1:137       *:*                                    4
+  UDP    192.168.14.1:138       *:*                                    4
+  UDP    192.168.14.1:1900      *:*                                    4676
+  UDP    192.168.14.1:2177      *:*                                    9364
+  UDP    192.168.14.1:59217     *:*                                    4676
+  UDP    192.168.58.1:137       *:*                                    4
+  UDP    192.168.58.1:138       *:*                                    4
+  UDP    192.168.58.1:1900      *:*                                    4676
+  UDP    192.168.58.1:2177      *:*                                    9364
+  UDP    192.168.58.1:59216     *:*                                    4676
+  UDP    [::]:123               *:*                                    1156
+  UDP    [::]:500               *:*                                    4880
+  UDP    [::]:3702              *:*                                    5876
+  UDP    [::]:3702              *:*                                    5876
+  UDP    [::]:3702              *:*                                    10328
+  UDP    [::]:3702              *:*                                    10328
+  UDP    [::]:4500              *:*                                    4880
+  UDP    [::]:5353              *:*                                    3536
+  UDP    [::]:5353              *:*                                    15072
+  UDP    [::]:5353              *:*                                    15072
+  UDP    [::]:5353              *:*                                    15072
+  UDP    [::]:5353              *:*                                    15072
+  UDP    [::]:5355              *:*                                    3536
+  UDP    [::]:51023             *:*                                    5876
+  UDP    [::]:52339             *:*                                    10328
+  UDP    [::1]:1900             *:*                                    4676
+  UDP    [::1]:59214            *:*                                    4676
+  UDP    [fe80::e3b:974d:d890:590c%12]:1900  *:*                                    4676
+  UDP    [fe80::e3b:974d:d890:590c%12]:2177  *:*                                    9364
+  UDP    [fe80::e3b:974d:d890:590c%12]:59212  *:*                                    4676
+  UDP    [fe80::53e6:f9a2:43f8:88db%8]:1900  *:*                                    4676
+  UDP    [fe80::53e6:f9a2:43f8:88db%8]:2177  *:*                                    9364
+  UDP    [fe80::53e6:f9a2:43f8:88db%8]:59213  *:*                                    4676
+  UDP    [fe80::8b33:bd7:4395:8d56%21]:1900  *:*                                    4676
+  UDP    [fe80::8b33:bd7:4395:8d56%21]:2177  *:*                                    9364
+  UDP    [fe80::8b33:bd7:4395:8d56%21]:59211  *:*                                    4676
+  UDP    [fe80::f16a:eaa8:3b31:48d4%4]:1900  *:*                                    4676
+  UDP    [fe80::f16a:eaa8:3b31:48d4%4]:2177  *:*                                    9364
+  UDP    [fe80::f16a:eaa8:3b31:48d4%4]:59210  *:*                                    4676
