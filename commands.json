@@ -16,9 +16,5 @@
             "name": "All wifi networks",
             "command": "netsh wlan show profiles"
         }
-        {
-            "name": "Show Open ports",
-            "command": "netstat -aon"
-        }
     ]
 }
