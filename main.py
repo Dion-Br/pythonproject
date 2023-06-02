@@ -1,11 +1,12 @@
 # Import packages
-from modules.localmanager import nothing
+from modules.localmanager import Screenshot
 from modules.remotecontroler import listener
 
 
 # Main code
 def main():
     # Initial startup:
+    Screenshot()
 
     # Initial startup done
     # ---------------------
