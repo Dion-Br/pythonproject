@@ -1,0 +1,234 @@
+
+Windows IP Configuration
+
+
+Unknown adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::f16a:eaa8:3b31:48d4%4
+   Autoconfiguration IPv4 Address. . : 169.254.57.214
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::8b33:bd7:4395:8d56%21
+   IPv4 Address. . . . . . . . . . . : 192.168.58.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::e3b:974d:d890:590c%12
+   IPv4 Address. . . . . . . . . . . : 192.168.14.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::53e6:f9a2:43f8:88db%8
+   IPv4 Address. . . . . . . . . . . : 192.168.0.8
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+Host Name:                 LAPTOP-B173VTIA
+OS Name:                   Microsoft Windows 10 Home
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Dion_brovina@hotmail.com
+Registered Organization:   N/A
+Product ID:                00325-82149-88046-AAOEM
+Original Install Date:     27/09/2021, 08:06:52
+System Boot Time:          01/06/2023, 19:00:59
+System Manufacturer:       LENOVO
+System Model:              82MS
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~1882 Mhz
+BIOS Version:              LENOVO GZCN31WW, 06/09/2022
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+01:00) Brussels, Copenhagen, Madrid, Paris
+Total Physical Memory:     14.182 MB
+Available Physical Memory: 7.189 MB
+Virtual Memory: Max Size:  17.254 MB
+Virtual Memory: Available: 6.245 MB
+Virtual Memory: In Use:    11.009 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\LAPTOP-B173VTIA
+Hotfix(s):                 26 Hotfix(s) Installed.
+                           [01]: KB5022502
+                           [02]: KB4562830
+                           [03]: KB4570334
+                           [04]: KB4577586
+                           [05]: KB4580325
+                           [06]: KB4586864
+                           [07]: KB4593175
+                           [08]: KB5003791
+                           [09]: KB5012170
+                           [10]: KB5015684
+                           [11]: KB5026361
+                           [12]: KB5006753
+                           [13]: KB5007273
+                           [14]: KB5011352
+                           [15]: KB5011651
+                           [16]: KB5014032
+                           [17]: KB5014035
+                           [18]: KB5014671
+                           [19]: KB5015895
+                           [20]: KB5016705
+                           [21]: KB5018506
+                           [22]: KB5020372
+                           [23]: KB5022924
+                           [24]: KB5023794
+                           [25]: KB5025315
+                           [26]: KB5005699
+Network Card(s):           5 NIC(s) Installed.
+                           [01]: Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.0.1
+                                 IP address(es)
+                                 [01]: 192.168.0.8
+                                 [02]: fe80::53e6:f9a2:43f8:88db
+                           [02]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 169.254.57.214
+                                 [02]: fe80::f16a:eaa8:3b31:48d4
+                           [03]: VMware Virtual Ethernet Adapter for VMnet1
+                                 Connection Name: VMware Network Adapter VMnet1
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.58.254
+                                 IP address(es)
+                                 [01]: 192.168.58.1
+                                 [02]: fe80::8b33:bd7:4395:8d56
+                           [04]: VMware Virtual Ethernet Adapter for VMnet8
+                                 Connection Name: VMware Network Adapter VMnet8
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.14.254
+                                 IP address(es)
+                                 [01]: 192.168.14.1
+                                 [02]: fe80::e3b:974d:d890:590c
+                           [05]: TAP-Windows Adapter V9 for OpenVPN Connect
+                                 Connection Name: Local Area Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+
+Interface: 169.254.57.214 --- 0x4
+  Internet Address      Physical Address      Type
+  169.254.255.255       ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.250           01-00-5e-00-00-fa     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  224.0.1.60            01-00-5e-00-01-3c     static    
+  239.255.3.22          01-00-5e-7f-03-16     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  239.255.255.251       01-00-5e-7f-ff-fb     static    
+
+Interface: 192.168.0.8 --- 0x8
+  Internet Address      Physical Address      Type
+  192.168.0.1           08-b0-55-33-e8-81     dynamic   
+  192.168.0.2           70-df-f7-cf-80-06     dynamic   
+  192.168.0.3           58-20-b1-20-a7-47     dynamic   
+  192.168.0.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.250           01-00-5e-00-00-fa     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  224.0.1.60            01-00-5e-00-01-3c     static    
+  239.255.3.22          01-00-5e-7f-03-16     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  239.255.255.251       01-00-5e-7f-ff-fb     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+Interface: 192.168.14.1 --- 0xc
+  Internet Address      Physical Address      Type
+  192.168.14.254        00-50-56-ff-e3-e0     dynamic   
+  192.168.14.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.250           01-00-5e-00-00-fa     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  224.0.1.60            01-00-5e-00-01-3c     static    
+  239.255.3.22          01-00-5e-7f-03-16     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  239.255.255.251       01-00-5e-7f-ff-fb     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+Interface: 192.168.58.1 --- 0x15
+  Internet Address      Physical Address      Type
+  192.168.58.254        00-50-56-e6-2b-40     dynamic   
+  192.168.58.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.250           01-00-5e-00-00-fa     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  224.0.1.60            01-00-5e-00-01-3c     static    
+  239.255.3.22          01-00-5e-7f-03-16     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  239.255.255.251       01-00-5e-7f-ff-fb     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+Profiles on interface Wi-Fi:
+
+Group policy profiles (read only)
+---------------------------------
+    <None>
+
+User profiles
+-------------
+    All User Profile     : Labo 2
+    All User Profile     : telenet-ap-6579114
+    All User Profile     : WiFi-5.0-A778
+    All User Profile     : FD intern
+    All User Profile     : Filet Divers
+    All User Profile     : FRITZ!Box 7580 LP
+    All User Profile     : ZB-Internet
+    All User Profile     : Orange-3e87e
+    All User Profile     : WIFI home 5GHz
+    All User Profile     : WIFI home
+    All User Profile     : Kiss Family
+    All User Profile     : Leardi00
+    All User Profile     : EBEBE
+    All User Profile     : WiFi-2.4-A778
+    All User Profile     : Quick_Guest
+    All User Profile     : AP wifi
+    All User Profile     : bletchley
+    All User Profile     : Arben Jaka
+    All User Profile     : Toni Tuna
+    All User Profile     : AP-Hogeschool 2
+    All User Profile     : Als jij hackt ga ik jou shanken 
+    All User Profile     : telenet-8AB68
+    All User Profile     : no wifi hire
+
