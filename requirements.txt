@@ -4,3 +4,4 @@ python-dotenv
 pillow
 platform
 gitpython
+screen-brightness-control

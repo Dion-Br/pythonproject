@@ -3,6 +3,7 @@ from modules.repomanager import writeIMGToRepo
 from datetime import datetime
 from PIL import ImageGrab
 
+import screen_brightness_control as sbc
 import webbrowser
 import platform
 
@@ -24,3 +25,8 @@ def Screenshot():
 # Auto views farmer
 def OpenBrowser():
     webbrowser.open("https://www.instagram.com/p/Cs9Sl0hgtK-/", new=0, autoraise=True)
+
+
+# Brightness aanpassen
+def ChangeBrightness(val):
+    sbc.set_brightness(val)
